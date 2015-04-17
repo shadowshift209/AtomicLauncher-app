@@ -1,0 +1,201 @@
+gui.ok=ok
+
+menu.play=Spielen
+menu.playOnRealms=Auf Realms spielen
+
+playscreen.header.local=Spielen
+playscreen.header.realms=Realms
+playscreen.new=Neu
+playscreen.lastPlayed.today=Heute
+playscreen.lastPlayed.yesterday=Gestern
+playscreen.lastPlayed.daysAgo=vor %1 Tagen
+playscreen.lastPlayed.weeksAgo=vor %1 Wochen
+playscreen.lastPlayed.longAgo=lange her
+playscreen.remoteWorld=Remote-Welt auf:
+
+createWorldScreen.gameMode.survival.desc=Ressourcen begrenzt; du brauchst Werkzeug. Du kannst dir wehtun. Hüte dich vor Monstern.
+createWorldScreen.gameMode.creative.desc=Zerstöre und platziere Blöcke ganz einfach. Kein Schaden, Fliegen und andere coole Sachen.
+createWorldScreen.gameMode.survival=Überleben
+createWorldScreen.gameMode.creative=Kreativ
+createWorldScreen.header.local=Welt erschaffen
+createWorldScreen.header.realms=Realms-Server erstellen
+createWorldScreen.header.realmsReset=Realms zurücksetzen?
+createWorldScreen.header.editLocal=Deine Welt bearbeiten
+createWorldScreen.action.local=Welt erschaffen!
+createWorldScreen.action.realms=Welt erschaffen!
+createWorldScreen.action.realmsReset=Realms zurücksetzen!
+createWorldScreen.action.editLocal=Unendlich machen!
+createWorldScreen.advanced=Erweitert
+createWorldScreen.delete=Löschen
+createWorldScreen.levelName=Name
+createWorldScreen.levelSeed=Seed
+createWorldScreen.alwaysDay=Immer Tag
+createWorldScreen.gameMode=Spielmodus
+createWorldScreen.worldType=Welttyp
+createWorldScreen.more=...
+createWorldScreen.progress.local=Neue Welt erschaffen ...
+createWorldScreen.progress.realms=Realms zurücksetzen ...
+
+generator.old=Alt
+generator.infinite=Unendlich
+generator.flat=Flach
+
+externalServerScreen.header=Externen Server hinzufügen
+externalServerScreen.addServer=Server hinzufügen
+externalServerScreen.serverName=Name
+externalServerScreen.serverNameInput=Servername
+externalServerScreen.serverAddress=IP/Adresse
+externalServerScreen.serverAddressInput=Server-IP oder Adresse
+externalServerScreen.serverPort=Port
+externalServerScreen.serverPortInput=Server-Port
+externalServerScreen.label=Server per IP/Adresse hinzufügen.
+
+progressScreen.generating=Welt erstellen
+progressScreen.cantConnect=Keine Verbindung zum Server. Erneut versuchen.
+progressScreen.message.locating=Server wird gesucht.
+progressScreen.message.building=Gelände bauen
+progressScreen.message.waitingForRealms=Warte auf minecraftApp Realms
+progressScreen.message.done=Fertig!
+
+disconnectionScreen.disconnected=Verbindung zum Server getrennt
+disconnectionScreen.noReason=Deine Verbindung wurde getrennt.
+disconnectionScreen.outdatedClient=Keine Verbindung: Client veraltet!
+disconnectionScreen.outdatedServer=Keine Verbindung: Server veraltet!
+disconnectionScreen.cantConnect=Keine Verbindung zur Welt.
+disconnectionScreen.serverFull=Server ist voll!
+disconnectionScreen.noWIFI=Du musst über WLAN verbunden sein, um auf externen Servern zu spielen.
+disconnectionScreen.invalidSkin=Ungültiges Skin!
+
+worldError.corrupted=ist beschädigt und kann nicht gestartet werden.
+worldError.notFound=wurde nicht gefunden.
+worldError.IO=kann nicht geöffnet werden.
+worldError.notSupported=liegt in einem nicht unterstützten Format vor.
+worldError.invalidArguments=wurde mit ungültigen Parametern erstellt.
+worldError.unknown=ist von einem unbekannten Problem betroffen.
+
+furnaceScreen.header=Ofen
+furnaceScreen.input=Eingabe
+furnaceScreen.fuel=Brennstoff
+furnaceScreen.result=Ergebnis
+
+chestScreen.header.large=Große Truhe
+chestScreen.header.small=Truhe
+chestScreen.header.player=Inventar
+
+pauseScreen.back=Zurück zum Spiel
+pauseScreen.quit=Zum Titelbildschirm
+pauseScreen.options=Optionen
+pauseScreen.header=Spielmemü
+
+chatScreen.hide=Ausblenden
+
+crafting.cannotCreate=Du hast nicht alle Zutaten.
+crafting.noRecipesInventory=Sammle Blöcke für die Herstellung!
+crafting.noRecipesWorkbench=Sammle Blöcke für die Herstellung!
+crafting.noRecipesStonecutter=Sammle Steinmaterialien für die Herstellung!
+
+deathScreen.quit=Hauptmenü
+deathScreen.message=Gestorben!
+
+options.category.game=Spiel
+options.category.input=Steuerung
+options.category.graphics=Grafik
+options.category.audio=Sound
+
+options.group.audio=Sound
+options.group.game=Spiel
+options.group.realms=Zur Realms-Alpha eingeladen?
+options.group.input=Steuerung
+options.group.feedback=Feedback
+options.group.graphics=Grafik
+options.group.graphics.experimental=Experimentell
+
+options.languageWarning=Die Übersetzungen sind möglicherweise nicht zu 100 % korrekt
+options.sound=Lautstärke
+options.hidegui=GUI ausblenden
+options.graphics=Raffinierte Grafik
+options.guiScale=Steuerkreuzgröße
+options.thirdperson=Third-Person-Perspektive
+options.servervisible=Multiplayer über lokalen Server
+options.lefthanded=Linkshändler
+options.usetouchscreen=Touch-Steuerung
+options.usetouchpad=Geteilte Steuerung
+options.destroyvibration=Block zerstören (Vibration)
+options.fancyskies=Schöner Himmel
+options.animatetextures=Animiertes Wasser
+options.dpadscale=Steuerkreuzgröße
+options.name=Name
+options.worldsizelimit=Weltgröße begrenzen
+
+gui.login=Anmelden
+gui.logout=Abmelden
+
+action.hint.exit.minecart=Auf Springen tippen, um die Lore zu verlassen
+action.hint.exit.boat=Abbremsen, um das Boot zu verlassen
+
+action.interact.milk=Milch
+action.interact.moostew=Milchragout
+action.interact.mooshear=Scheren
+action.interact.shear=Scheren
+action.interact.feed=Füttern
+action.interact.wolfcollar=Färben
+action.interact.stand=Stehen
+action.interact.sit=Sitzen
+action.interact.tame=Zähmen
+action.interact.ride.minecart=Fahren
+action.interact.ride.boat=Einsteigen
+action.interact.exit.boat=Boot verlassen
+action.interact.creeper=Anzünden
+action.interact.fishing=Angeln
+
+tile.stonecutter.name=Steinmetz
+tile.netherreactor.name=Netherreaktorkern
+tile.netherreactor.wrongPattern=Muster nicht korrekt!
+tile.netherreactor.active=Aktiv!
+tile.netherreactor.playersTooFar=Alle Spieler müssen nahe am Reaktor sein.
+tile.netherreactor.builtTooHigh=Der Netherreaktor muss weiter unten gebaut werden.
+tile.netherreactor.builtTooLow=Der Netherreaktor muss weiter oben gebaut werden.
+tile.beetroot.name=Rote Bete
+
+item.beetrootSoup.name=Rote-Bete-Suppe
+item.beetroot.name=Rote Bete
+item.seeds_beetroot.name=Rote-Bete-Samen
+item.monsterPlacer.entity.Creeper.name=Creeper erzeugen
+item.monsterPlacer.entity.Skeleton.name=Skelett erzeugen
+item.monsterPlacer.entity.Spider.name=Spinne erzeugen
+item.monsterPlacer.entity.Giant.name=Riesen erzeugen
+item.monsterPlacer.entity.Zombie.name=Zombie erzeugen
+item.monsterPlacer.entity.Slime.name=Schleim erzeugen
+item.monsterPlacer.entity.Ghast.name=Ghast erzeugen
+item.monsterPlacer.entity.PigZombie.name=Zombie Pigman erzeugen
+item.monsterPlacer.entity.EnderMan.name=Enderman erzeugen
+item.monsterPlacer.entity.Silverfish.name=Silberfischchen erzeugen
+item.monsterPlacer.entity.CaveSpider.name=Höhlenspinne erzeugen
+item.monsterPlacer.entity.Blaze.name=Lohe erzeugen
+item.monsterPlacer.entity.LavaSlime.name=Magmaschleim erzeugen
+item.monsterPlacer.entity.MushroomCow.name=Pilzkuh erzeugen
+item.monsterPlacer.entity.Villager.name=Dorfbewohner erzeugen
+item.monsterPlacer.entity.VillagerGolem.name=Eisengolem erzeugen
+item.monsterPlacer.entity.SnowMan.name=Schneegolem erzeugen
+item.monsterPlacer.entity.EnderDragon.name=Enderdrachen erzeugen
+item.monsterPlacer.entity.Pig.name=Schwein erzeugen
+item.monsterPlacer.entity.Sheep.name=Schaf erzeugen
+item.monsterPlacer.entity.Cow.name=Kuh erzeugen
+item.monsterPlacer.entity.Chicken.name=Huhn erzeugen
+item.monsterPlacer.entity.Squid.name=Tintenfisch erzeugen
+item.monsterPlacer.entity.Wolf.name=Wolf erzeugen
+item.monsterPlacer.entity.Ozelot.name=Ozelot erzeugen
+item.monsterPlacer.entity.Cat.name=Katze erzeugen
+item.monsterPlacer.entity.Squid.name=Tintenfisch erzeugen
+item.monsterPlacer.entity.Bat.name=Fledermaus erzeugen
+
+skins.browse=Durchsuchen
+skins.custom=Benutzerdefiniert
+skins.information.selectSkin=Modell auswählen, auf das dein Skin passt
+skins.information.invalidCustomSkin=Ausgewähltes Bild ist anscheinend kein Minecraft-Skin
+
+skins.skinpackHeader.standard=Standard
+skins.skinpackHeader.packs=Skinpakete
+
+skin.name.alex=Alex
+skin.name.steve=Steve

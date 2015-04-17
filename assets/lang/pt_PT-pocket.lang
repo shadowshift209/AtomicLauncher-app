@@ -1,0 +1,201 @@
+gui.ok=OK
+
+menu.play=Jogar
+menu.playOnRealms=Jogar no Realms
+
+playscreen.header.local=Jogar
+playscreen.header.realms=Realms
+playscreen.new=Novo
+playscreen.lastPlayed.today=Hoje
+playscreen.lastPlayed.yesterday=Ontem
+playscreen.lastPlayed.daysAgo=Há %1 dias
+playscreen.lastPlayed.weeksAgo=Há %1 semanas
+playscreen.lastPlayed.longAgo=Há muito tempo
+playscreen.remoteWorld=Mundo remoto em:
+
+createWorldScreen.gameMode.survival.desc=Recursos limitados, precisas de ferramentas. Podes magoar-te. Cuidado com os Monstros.
+createWorldScreen.gameMode.creative.desc=Destrói e coloca blocos facilmente. Sem danos, voar e outra coisas giras.
+createWorldScreen.gameMode.survival=Sobrevivência
+createWorldScreen.gameMode.creative=Criativo
+createWorldScreen.header.local=Criar um Mundo
+createWorldScreen.header.realms=Criar um Servidor Realms
+createWorldScreen.header.realmsReset=Reiniciar o teu Realm?
+createWorldScreen.header.editLocal=Edita o teu Mundo
+createWorldScreen.action.local=Cria um Mundo!
+createWorldScreen.action.realms=Cria um Mundo!
+createWorldScreen.action.realmsReset=Reiniciar o Realm!
+createWorldScreen.action.editLocal=Tornar Infinito!
+createWorldScreen.advanced=Avançado
+createWorldScreen.delete=Apagar
+createWorldScreen.levelName=Nome
+createWorldScreen.levelSeed=Semear
+createWorldScreen.alwaysDay=Sempre Dia
+createWorldScreen.gameMode=Modo de Jogo
+createWorldScreen.worldType=Tipo de Mundo
+createWorldScreen.more=...
+createWorldScreen.progress.local=A criar um novo mundo...
+createWorldScreen.progress.realms=A reiniciar o teu reino...
+
+generator.old=Antigo
+generator.infinite=Infinito
+generator.flat=Plano
+
+externalServerScreen.header=Adicionar Servidor Externo
+externalServerScreen.addServer=Adicionar Servidor
+externalServerScreen.serverName=Nome
+externalServerScreen.serverNameInput=Nome do Servidor
+externalServerScreen.serverAddress=Endereço IP
+externalServerScreen.serverAddressInput=IP ou Endereço do Servidor
+externalServerScreen.serverPort=Porta
+externalServerScreen.serverPortInput=Porta do Servidor
+externalServerScreen.label=Adicionar servidor por IP/Endereço.
+
+progressScreen.generating=A gerar o mundo
+progressScreen.cantConnect=Não foi possível ligar ao servidor. Tenta novamente.
+progressScreen.message.locating=A procurar o servidor
+progressScreen.message.building=A construir o terreno
+progressScreen.message.waitingForRealms=À espera da minecraftApp Realms
+progressScreen.message.done=Feito!
+
+disconnectionScreen.disconnected=Desligado do Servidor
+disconnectionScreen.noReason=Foste desligado
+disconnectionScreen.outdatedClient=Não foi possível ligar: Cliente desatualizado!
+disconnectionScreen.outdatedServer=Não foi possível ligar: Servidor desatualizado!
+disconnectionScreen.cantConnect=Não foi possível ligar ao mundo.
+disconnectionScreen.serverFull=Servidor cheio!
+disconnectionScreen.noWIFI=Para jogares em servidores externos deves ligar através de Wifi
+disconnectionScreen.invalidSkin=Skin inválida!
+
+worldError.corrupted=está danificado e não pode ser iniciado.
+worldError.notFound=não encontrado.
+worldError.IO=não pode ser aberto.
+worldError.notSupported=tem um formato não suportado.
+worldError.invalidArguments=foi criado com argumentos inválidos.
+worldError.unknown=tem um problema desconhecido.
+
+furnaceScreen.header=Fornalha
+furnaceScreen.input=Entrada
+furnaceScreen.fuel=Combustível
+furnaceScreen.result=Resultado
+
+chestScreen.header.large=Baú Grande
+chestScreen.header.small=Baú
+chestScreen.header.player=Inventário
+
+pauseScreen.back=Voltar ao jogo
+pauseScreen.quit=Sair para o início
+pauseScreen.options=Opções
+pauseScreen.header=Menu de Jogo
+
+chatScreen.hide=Ocultar
+
+crafting.cannotCreate=Não tens todos os ingredientes
+crafting.noRecipesInventory=Para fabricares precisas de apanhar blocos!
+crafting.noRecipesWorkbench=Para fabricares precisas de apanhar blocos!
+crafting.noRecipesStonecutter=Para fabricares precisas de materiais de pedra!
+
+deathScreen.quit=Menu principal
+deathScreen.message=Morreste!
+
+options.category.game=Jogo
+options.category.input=Controlos
+options.category.graphics=Gráficos
+options.category.audio=Som
+
+options.group.audio=Som
+options.group.game=Jogo
+options.group.realms=Convidado para o Realms Alpha?
+options.group.input=Controlos
+options.group.feedback=Comentários
+options.group.graphics=Gráficos
+options.group.graphics.experimental=Experimental
+
+options.languageWarning=As traduções para outros idiomas podem não estar 100% corretas
+options.sound=Volume do Som
+options.hidegui=Ocultar GUI
+options.graphics=Gráficos Bonitos
+options.guiScale=Tamanho do D-pad
+options.thirdperson=Vista na Terceira Pessoa
+options.servervisible=Multijogador em servidor Local
+options.lefthanded=Canhoto
+options.usetouchscreen=Jogar com Toque
+options.usetouchpad=Controlos Divididos
+options.destroyvibration=Destruir Bloco (vibrar)
+options.fancyskies=Céus Bonitos
+options.animatetextures=Água animada
+options.dpadscale=Tamanho do D-pad
+options.name=Nome
+options.worldsizelimit=Limitar Tamanho do Mundo
+
+gui.login=Iniciar Sessão
+gui.logout=Encerrar Sessão
+
+action.hint.exit.minecart=Toca em saltar para saíres do vagão
+action.hint.exit.boat=Desacelera para saíres do barco
+
+action.interact.milk=Leite
+action.interact.moostew=Guisado de Leite
+action.interact.mooshear=Tesoura de Poda
+action.interact.shear=Tesoura de Poda
+action.interact.feed=Ração
+action.interact.wolfcollar=Tinta
+action.interact.stand=De pé
+action.interact.sit=Sentar
+action.interact.tame=Domesticar
+action.interact.ride.minecart=Embarcar
+action.interact.ride.boat=Embarcar
+action.interact.exit.boat=Sair do barco
+action.interact.creeper=Acender
+action.interact.fishing=Pescar
+
+tile.stonecutter.name=Corta-pedra
+tile.netherreactor.name=Núcleo do Reator Nether
+tile.netherreactor.wrongPattern=Não é o padrão correto!
+tile.netherreactor.active=Ativo!
+tile.netherreactor.playersTooFar=Todos os jogadores devem estar perto de um reator.
+tile.netherreactor.builtTooHigh=O reator nether deve ser construído mais abaixo.
+tile.netherreactor.builtTooLow=O reator nether deve ser construído mais acima.
+tile.beetroot.name=Beterraba
+
+item.beetrootSoup.name=Sopa de Beterraba
+item.beetroot.name=Beterraba
+item.seeds_beetroot.name=Sementes de Beterraba
+item.monsterPlacer.entity.Creeper.name=Gerar Creeper
+item.monsterPlacer.entity.Skeleton.name=Gerar Esqueleto
+item.monsterPlacer.entity.Spider.name=Gerar Aranha
+item.monsterPlacer.entity.Giant.name=Gerar Gigante
+item.monsterPlacer.entity.Zombie.name=Gerar Zumbi
+item.monsterPlacer.entity.Slime.name=Gerar Slime
+item.monsterPlacer.entity.Ghast.name=Gerar Ghast
+item.monsterPlacer.entity.PigZombie.name=Gerar Homem-Porco Zumbi
+item.monsterPlacer.entity.EnderMan.name=Gerar Enderman
+item.monsterPlacer.entity.Silverfish.name=Gerar Silverfish
+item.monsterPlacer.entity.CaveSpider.name=Gerar Aranha Venenosa
+item.monsterPlacer.entity.Blaze.name=Gerar Blaze
+item.monsterPlacer.entity.LavaSlime.name=Gerar Cubo de Magma
+item.monsterPlacer.entity.MushroomCow.name=Gerar Vaca-Cogumelo
+item.monsterPlacer.entity.Villager.name=Gerar Aldeão
+item.monsterPlacer.entity.VillagerGolem.name=Gerar Golem de Ferro
+item.monsterPlacer.entity.SnowMan.name=Gerar Golem de Neve
+item.monsterPlacer.entity.EnderDragon.name=Gerar Dragão do Fim
+item.monsterPlacer.entity.Pig.name=Gerar Porco
+item.monsterPlacer.entity.Sheep.name=Gerar Ovelha
+item.monsterPlacer.entity.Cow.name=Gerar Vaca
+item.monsterPlacer.entity.Chicken.name=Gerar Galinha
+item.monsterPlacer.entity.Squid.name=Gerar Lula
+item.monsterPlacer.entity.Wolf.name=Gerar Lobo
+item.monsterPlacer.entity.Ozelot.name=Gerar Ocelote
+item.monsterPlacer.entity.Cat.name=Gerar Gato
+item.monsterPlacer.entity.Squid.name=Gerar Lula
+item.monsterPlacer.entity.Bat.name=Gerar Morcego
+
+skins.browse=Percorrer
+skins.custom=Personalizado
+skins.information.selectSkin=Seleciona o modelo adequado para a tua skin
+skins.information.invalidCustomSkin=A imagem selecionada não parece ser uma skin do Minecraft
+
+skins.skinpackHeader.standard=Padrão
+skins.skinpackHeader.packs=Packs de skins
+
+skin.name.alex=Alex
+skin.name.steve=Steve

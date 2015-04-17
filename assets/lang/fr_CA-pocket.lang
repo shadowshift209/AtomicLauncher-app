@@ -1,0 +1,201 @@
+gui.ok=ok
+
+menu.play=Jouer
+menu.playOnRealms=Jouer dans les Royaumes
+
+playscreen.header.local=Jouer
+playscreen.header.realms=Royaumes
+playscreen.new=Nouveau
+playscreen.lastPlayed.today=Aujourd'hui
+playscreen.lastPlayed.yesterday=Hier
+playscreen.lastPlayed.daysAgo=%il y a 1 jour
+playscreen.lastPlayed.weeksAgo=%il y a 1 semaine
+playscreen.lastPlayed.longAgo=Il y a longtemps
+playscreen.remoteWorld=Monde distant à :
+
+createWorldScreen.gameMode.survival.desc=Ressources limitées, vous aurez besoin d'outils. Vous pourriez vous blesser. Faites attention aux Monstres.
+createWorldScreen.gameMode.creative.desc=Détruire et placer facilement des blocs. Aucun dommage, voler et autres trucs intéressants.
+createWorldScreen.gameMode.survival=Survie
+createWorldScreen.gameMode.creative=Créatif
+createWorldScreen.header.local=Créer un Monde
+createWorldScreen.header.realms=Créer un Serveur des Royaumes
+createWorldScreen.header.realmsReset=Réinitialiser votre Royaume?
+createWorldScreen.header.editLocal=Modifier votre Monde
+createWorldScreen.action.local=Créer un Monde!
+createWorldScreen.action.realms=Créer un Monde!
+createWorldScreen.action.realmsReset=Réinitialiser le Royaume!
+createWorldScreen.action.editLocal=Changer en Monde Infini!
+createWorldScreen.advanced=Avancé
+createWorldScreen.delete=Supprimer
+createWorldScreen.levelName=Nom
+createWorldScreen.levelSeed=Valeur de départ
+createWorldScreen.alwaysDay=Toujours le Jour
+createWorldScreen.gameMode=Mode de Jeu
+createWorldScreen.worldType=Type de Monde
+createWorldScreen.more=...
+createWorldScreen.progress.local=Création d'un nouveau monde...
+createWorldScreen.progress.realms=Réinitialisation de votre royaume...
+
+generator.old=Ancien
+generator.infinite=Infini
+generator.flat=Plat
+
+externalServerScreen.header=Ajouter un Serveur Externe
+externalServerScreen.addServer=Ajouter un Serveur
+externalServerScreen.serverName=Nom
+externalServerScreen.serverNameInput=Nom du Serveur
+externalServerScreen.serverAddress=IP/Adresse
+externalServerScreen.serverAddressInput=Adresse ou IP du Serveur
+externalServerScreen.serverPort=Port
+externalServerScreen.serverPortInput=Port du serveur
+externalServerScreen.label=Ajouter un serveur selon l'IP/l'Adresse.
+
+progressScreen.generating=Génération d'un monde
+progressScreen.cantConnect=Impossible de se connecter au serveur. Réessayer.
+progressScreen.message.locating=Localisation du serveur
+progressScreen.message.building=Génération du terrain
+progressScreen.message.waitingForRealms=En attente pour l'application des Royaumes de Minecraft
+progressScreen.message.done=Terminé!
+
+disconnectionScreen.disconnected=Déconnecté du Serveur
+disconnectionScreen.noReason=Vous avez été déconnecté
+disconnectionScreen.outdatedClient=Impossible de se connecter : Client désuet!
+disconnectionScreen.outdatedServer=Impossible de se connecter : Serveur désuet!
+disconnectionScreen.cantConnect=Impossible de se connecter au monde.
+disconnectionScreen.serverFull=Le serveur est plein!
+disconnectionScreen.noWIFI=Vous devez être connecté via Wi-Fi pour jouer sur les Serveurs externes
+disconnectionScreen.invalidSkin=Peau invalide!
+
+worldError.corrupted=est endommagé et ne peut être lancé.
+worldError.notFound=n'a pu être trouvé.
+worldError.IO=n'a pu être ouvert.
+worldError.notSupported=possède un format non pris en charge.
+worldError.invalidArguments=a été créé avec des arguments non valides.
+worldError.unknown=a un problème inconnu.
+
+furnaceScreen.header=Fourneau
+furnaceScreen.input=Entrée
+furnaceScreen.fuel=Combustible
+furnaceScreen.result=Résultat
+
+chestScreen.header.large=Gros coffre
+chestScreen.header.small=Coffre
+chestScreen.header.player=Inventaire
+
+pauseScreen.back=Retour au jeu
+pauseScreen.quit=Quitter au titre
+pauseScreen.options=Options
+pauseScreen.header=Menu du Jeu
+
+chatScreen.hide=Cacher
+
+crafting.cannotCreate=Vous n'avez pas tous les ingrédients
+crafting.noRecipesInventory=Vous devez recueillir des blocs pour construire!
+crafting.noRecipesWorkbench=Vous devez recueillir des blocs pour construire!
+crafting.noRecipesStonecutter=Vous avez besoin de matériaux de pierre pour construire!
+
+deathScreen.quit=Menu principal
+deathScreen.message=Vous êtes mort!
+
+options.category.game=Jeu
+options.category.input=Commandes
+options.category.graphics=Graphismes
+options.category.audio=Son
+
+options.group.audio=Son
+options.group.game=Jeu
+options.group.realms=Invité aux Royaumes Alpha?
+options.group.input=Commandes
+options.group.feedback=Rétroaction
+options.group.graphics=Graphismes
+options.group.graphics.experimental=Expérimental
+
+options.languageWarning=Les traductions peuvent ne pas être 100 % précises
+options.sound=Volume du Son
+options.hidegui=Cacher l'interface
+options.graphics=Graphismes détaillés
+options.guiScale=Dimension de la croix directionnelle
+options.thirdperson=Vue de Tierce Personne
+options.servervisible=Joueurs Multiples sur Serveur Local
+options.lefthanded=Gaucher
+options.usetouchscreen=Jouer avec le Pavé tactile
+options.usetouchpad=Choix des Commandes
+options.destroyvibration=Détruire le Bloc (vibre)
+options.fancyskies=Magnifiques cieux
+options.animatetextures=Eau animée
+options.dpadscale=Dimension de la Croix directionnelle
+options.name=Nom
+options.worldsizelimit=Dimensions Limites du Monde
+
+gui.login=Se connecter
+gui.logout=Se déconnecter
+
+action.hint.exit.minecart=Touchez «Sauter» pour quitter le wagonnet
+action.hint.exit.boat=Ralentissez pour quitter le bateau
+
+action.interact.milk=Chaudière de lait
+action.interact.moostew=Ragoût de lait
+action.interact.mooshear=Cisailles
+action.interact.shear=Tondre
+action.interact.feed=Nourrir
+action.interact.wolfcollar=Teindre
+action.interact.stand=Se lever
+action.interact.sit=S'asseoir
+action.interact.tame=Dresser
+action.interact.ride.minecart=Monter
+action.interact.ride.boat=Embarquer
+action.interact.exit.boat=Quitter le bateau
+action.interact.creeper=Allumer
+action.interact.fishing=Pêcher
+
+tile.stonecutter.name=Tailleur de pierre
+tile.netherreactor.name=Cœur du Réacteur du Nether
+tile.netherreactor.wrongPattern=Pas le bon modèle!
+tile.netherreactor.active=Actif!
+tile.netherreactor.playersTooFar=Tous les joueurs doivent être près du réacteur.
+tile.netherreactor.builtTooHigh=Le réacteur du Nether doit être construit plus bas.
+tile.netherreactor.builtTooLow=Le réacteur du Nether doit être construit plus haut.
+tile.beetroot.name=Betterave
+
+item.beetrootSoup.name=Soupe aux Betteraves
+item.beetroot.name=Betterave
+item.seeds_beetroot.name=Graines de Betteraves
+item.monsterPlacer.entity.Creeper.name=Spawner un Creeper
+item.monsterPlacer.entity.Skeleton.name=Spawner un Squelette
+item.monsterPlacer.entity.Spider.name=Spawner une Araignée
+item.monsterPlacer.entity.Giant.name=Spawner un Géant
+item.monsterPlacer.entity.Zombie.name=Spawner un Zombie
+item.monsterPlacer.entity.Slime.name=Spawner une Slime
+item.monsterPlacer.entity.Ghast.name=Spawner un Ghast
+item.monsterPlacer.entity.PigZombie.name=Spawner un Homme-cochon zombie
+item.monsterPlacer.entity.EnderMan.name=Spawner un Enderman
+item.monsterPlacer.entity.Silverfish.name=Spawner un Lépisme
+item.monsterPlacer.entity.CaveSpider.name=Spawner une Araignée des cavernes
+item.monsterPlacer.entity.Blaze.name=Spawner une Blaze
+item.monsterPlacer.entity.LavaSlime.name=Spawner un Cube de magma
+item.monsterPlacer.entity.MushroomCow.name=Spawner une Mooshroom
+item.monsterPlacer.entity.Villager.name=Spawner un Villageois
+item.monsterPlacer.entity.VillagerGolem.name=Spawner un Golem de fer
+item.monsterPlacer.entity.SnowMan.name=Spawner un Golem de neige
+item.monsterPlacer.entity.EnderDragon.name=Spawner un Ender Dragon
+item.monsterPlacer.entity.Pig.name=Spawner un Cochon
+item.monsterPlacer.entity.Sheep.name=Spawner un Mouton
+item.monsterPlacer.entity.Cow.name=Spawner une Vache
+item.monsterPlacer.entity.Chicken.name=Spawner une Poulet
+item.monsterPlacer.entity.Squid.name=Spawner un Poulpe
+item.monsterPlacer.entity.Wolf.name=Spawner un Loup
+item.monsterPlacer.entity.Ozelot.name=Spawner un Minou sauvage
+item.monsterPlacer.entity.Cat.name=Spawner un Minou
+item.monsterPlacer.entity.Squid.name=Spawner un Poulpe
+item.monsterPlacer.entity.Bat.name=Spawner une Chauve-souris
+
+skins.browse=Naviguer
+skins.custom=Personnalisée
+skins.information.selectSkin=Sélectionner le modèle sur lequel la peau s'applique
+skins.information.invalidCustomSkin=L'image sélectionnée ne semble pas être une peau Minecraft
+
+skins.skinpackHeader.standard=Standard
+skins.skinpackHeader.packs=Paquets de peaux
+
+skin.name.alex=Alex
+skin.name.steve=Steve

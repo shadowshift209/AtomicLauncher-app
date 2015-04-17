@@ -1,0 +1,201 @@
+gui.ok=ok
+
+menu.play=Jugar
+menu.playOnRealms=Jugar en Realms
+
+playscreen.header.local=Jugar
+playscreen.header.realms=Realms
+playscreen.new=Nuevo
+playscreen.lastPlayed.today=Hoy
+playscreen.lastPlayed.yesterday=Ayer
+playscreen.lastPlayed.daysAgo=Hace %1 días
+playscreen.lastPlayed.weeksAgo=Hace %1 semanas
+playscreen.lastPlayed.longAgo=Hace mucho
+playscreen.remoteWorld=Mundo remoto en:
+
+createWorldScreen.gameMode.survival.desc=Los recursos son limitados; necesitarás herramientas. Te pueden dañar. ¡Ojo con los monstruos!
+createWorldScreen.gameMode.creative.desc=Coloca y destruye bloques con facilidad. No te pueden dañar; vuelas y haces más cosas que molan.
+createWorldScreen.gameMode.survival=Supervivencia
+createWorldScreen.gameMode.creative=Creativo
+createWorldScreen.header.local=Crear un mundo
+createWorldScreen.header.realms=Crear un servidor de Realms
+createWorldScreen.header.realmsReset=¿Restablecer tu Realm?
+createWorldScreen.header.editLocal=Editar tu mundo
+createWorldScreen.action.local=Crear mundo
+createWorldScreen.action.realms=Crear mundo
+createWorldScreen.action.realmsReset=Restablecer Realm
+createWorldScreen.action.editLocal=Hacer infinito
+createWorldScreen.advanced=Avanzado
+createWorldScreen.delete=Eliminar
+createWorldScreen.levelName=Nombre
+createWorldScreen.levelSeed=Semilla
+createWorldScreen.alwaysDay=Siempre de día
+createWorldScreen.gameMode=Modo
+createWorldScreen.worldType=Mundo
+createWorldScreen.more=...
+createWorldScreen.progress.local=Creando mundo nuevo...
+createWorldScreen.progress.realms=Restableciendo tu Realm...
+
+generator.old=Antiguo
+generator.infinite=Infinito
+generator.flat=Plano
+
+externalServerScreen.header=Añadir servidor externo
+externalServerScreen.addServer=Añadir servidor
+externalServerScreen.serverName=Nombre
+externalServerScreen.serverNameInput=Nombre del servidor
+externalServerScreen.serverAddress=IP/Dirección
+externalServerScreen.serverAddressInput=IP o dirección del servidor
+externalServerScreen.serverPort=Puerto
+externalServerScreen.serverPortInput=Puerto del servidor
+externalServerScreen.label=Añade un servidor por su IP o dirección.
+
+progressScreen.generating=Generando mundo...
+progressScreen.cantConnect=No se ha podido conectar con el servidor, inténtalo de nuevo.
+progressScreen.message.locating=Localizando servidor...
+progressScreen.message.building=Generando terreno...
+progressScreen.message.waitingForRealms=Esperando por la aplicación Realms para Minecraft...
+progressScreen.message.done=Hecho
+
+disconnectionScreen.disconnected=Desconexión del servidor
+disconnectionScreen.noReason=Te has desconectado.
+disconnectionScreen.outdatedClient=No se ha podido conectar: ¡cliente desactualizado!
+disconnectionScreen.outdatedServer=No se ha podido conectar: ¡servidor desactualizado!
+disconnectionScreen.cantConnect=No se ha podido conectar con el mundo.
+disconnectionScreen.serverFull=¡El servidor está lleno!
+disconnectionScreen.noWIFI=Necesitas conectarte por wifi para jugar en servidores externos.
+disconnectionScreen.invalidSkin=¡Apariencia no válida!
+
+worldError.corrupted=se ha corrompido y no se puede iniciar.
+worldError.notFound=no se encuentra.
+worldError.IO=no se puede abrir.
+worldError.notSupported=tiene un formato que no se admite.
+worldError.invalidArguments=se ha creado con argumentos no válidos.
+worldError.unknown=tiene un problema desconocido.
+
+furnaceScreen.header=Horno
+furnaceScreen.input=Entrada
+furnaceScreen.fuel=Combustible
+furnaceScreen.result=Resultado
+
+chestScreen.header.large=Cofre grande
+chestScreen.header.small=Cofre
+chestScreen.header.player=Inventario
+
+pauseScreen.back=Volver al juego
+pauseScreen.quit=Salir al título
+pauseScreen.options=Opciones
+pauseScreen.header=Menú del juego
+
+chatScreen.hide=Ocultar
+
+crafting.cannotCreate=¡Te faltan ingredientes!
+crafting.noRecipesInventory=¡Necesitas conseguir bloques para fabricar!
+crafting.noRecipesWorkbench=¡Necesitas conseguir bloques para fabricar!
+crafting.noRecipesStonecutter=¡Necesitas materiales de piedra para fabricar!
+
+deathScreen.quit=Menú principal
+deathScreen.message=¡Has muerto!
+
+options.category.game=Juego
+options.category.input=Controles
+options.category.graphics=Gráficos
+options.category.audio=Sonido
+
+options.group.audio=Sonido
+options.group.game=Juego
+options.group.realms=¿Te han invitado a Realms Alpha?
+options.group.input=Controles
+options.group.feedback=Comentarios
+options.group.graphics=Gráficos
+options.group.graphics.experimental=Experimental
+
+options.languageWarning=Algunas traducciones pueden contener errores
+options.sound=Volumen del sonido
+options.hidegui=Ocultar interfaz de juego
+options.graphics=Gráficos sofisticados
+options.guiScale=Tamaño de cruz de control
+options.thirdperson=Vista en 3.ª persona
+options.servervisible=Multijugador en servidor local
+options.lefthanded=Para zurdos
+options.usetouchscreen=Jugar en táctil
+options.usetouchpad=Controles divididos
+options.destroyvibration=Destruir bloque (vibrar)
+options.fancyskies=Cielos hermosos
+options.animatetextures=Agua en movimiento
+options.dpadscale=Tamaño de cruz de control
+options.name=Nombre
+options.worldsizelimit=Límite de tamaño del mundo
+
+gui.login=Iniciar sesión
+gui.logout=Cerrar sesión
+
+action.hint.exit.minecart=Toca Saltar para salir de la vagoneta
+action.hint.exit.boat=Reduce la velocidad para salir de la barca
+
+action.interact.milk=Leche
+action.interact.moostew=Cocción de leche
+action.interact.mooshear=Esquilar
+action.interact.shear=Esquilar
+action.interact.feed=Alimentar
+action.interact.wolfcollar=Teñir
+action.interact.stand=En pie
+action.interact.sit=Sentar
+action.interact.tame=Domar
+action.interact.ride.minecart=Cabalgar
+action.interact.ride.boat=Abordar
+action.interact.exit.boat=Abandonar barca
+action.interact.creeper=Prender
+action.interact.fishing=Pescar
+
+tile.stonecutter.name=Cortapiedras
+tile.netherreactor.name=Núcleo del infrarreactor
+tile.netherreactor.wrongPattern=¡Patrón incorrecto!
+tile.netherreactor.active=¡Activo!
+tile.netherreactor.playersTooFar=Todos los jugadores deben estar cerca del reactor.
+tile.netherreactor.builtTooHigh=El infrarreactor debe construirse más abajo.
+tile.netherreactor.builtTooLow=El infrarreactor debe construirse más arriba.
+tile.beetroot.name=Remolacha
+
+item.beetrootSoup.name=Sopa de remolacha
+item.beetroot.name=Remolacha
+item.seeds_beetroot.name=Semillas de remolacha
+item.monsterPlacer.entity.Creeper.name=Generador de creeper
+item.monsterPlacer.entity.Skeleton.name=Generador de esqueleto
+item.monsterPlacer.entity.Spider.name=Generador de araña
+item.monsterPlacer.entity.Giant.name=Generador de gigante
+item.monsterPlacer.entity.Zombie.name=Generador de zombi
+item.monsterPlacer.entity.Slime.name=Generador de Slime
+item.monsterPlacer.entity.Ghast.name=Generador de Ghast
+item.monsterPlacer.entity.PigZombie.name=Generador de hombrecerdo zombi
+item.monsterPlacer.entity.EnderMan.name=Generador de enderman
+item.monsterPlacer.entity.Silverfish.name=Generador de lepisma
+item.monsterPlacer.entity.CaveSpider.name=Generador de araña de cueva
+item.monsterPlacer.entity.Blaze.name=Generador de Blaze
+item.monsterPlacer.entity.LavaSlime.name=Generador de Slime magmático
+item.monsterPlacer.entity.MushroomCow.name=Generador de champiñaca
+item.monsterPlacer.entity.Villager.name=Generador de aldeano
+item.monsterPlacer.entity.VillagerGolem.name=Generador de gólem de hierro
+item.monsterPlacer.entity.SnowMan.name=Generador de gólem de nieve
+item.monsterPlacer.entity.EnderDragon.name=Generador de dragón del Fin
+item.monsterPlacer.entity.Pig.name=Generador de cerdo
+item.monsterPlacer.entity.Sheep.name=Generador de oveja
+item.monsterPlacer.entity.Cow.name=Generador de vaca
+item.monsterPlacer.entity.Chicken.name=Generador de pollo
+item.monsterPlacer.entity.Squid.name=Generador de calamar
+item.monsterPlacer.entity.Wolf.name=Generador de lobo
+item.monsterPlacer.entity.Ozelot.name=Generador de ocelote
+item.monsterPlacer.entity.Cat.name=Generador de gato
+item.monsterPlacer.entity.Squid.name=Generador de calamar
+item.monsterPlacer.entity.Bat.name=Generador de murciélago
+
+skins.browse=Examinar
+skins.custom=Personalizado
+skins.information.selectSkin=Selecciona el modelo al que corresponda la apariencia
+skins.information.invalidCustomSkin=La imagen seleccionada no parece una apariencia de Minecraft
+
+skins.skinpackHeader.standard=Estándar
+skins.skinpackHeader.packs=Paquetes de apariencias
+
+skin.name.alex=Alex
+skin.name.steve=Steve

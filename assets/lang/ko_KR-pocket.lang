@@ -1,0 +1,201 @@
+gui.ok=확인
+
+menu.play=플레이
+menu.playOnRealms=Realms에서 플레이
+
+playscreen.header.local=플레이
+playscreen.header.realms=Realms
+playscreen.new=신규
+playscreen.lastPlayed.today=오늘
+playscreen.lastPlayed.yesterday=어제
+playscreen.lastPlayed.daysAgo=%1 일 전
+playscreen.lastPlayed.weeksAgo=%1 주 전
+playscreen.lastPlayed.longAgo=오래전
+playscreen.remoteWorld=월드가 떨어져 있는 곳:
+
+createWorldScreen.gameMode.survival.desc=한정된 자원. 도구가 필요합니다. 다칠지도 몰라요. 몬스터를 조심하세요.
+createWorldScreen.gameMode.creative.desc=블록을 쉽게 파괴하고 쌓을 수 있어요. 날 수 있으며 죽지 않아요. 그리고 다른 멋진 것들도 준비되어 있어요.
+createWorldScreen.gameMode.survival=서바이벌
+createWorldScreen.gameMode.creative=크리에이티브
+createWorldScreen.header.local=월드 생성하기
+createWorldScreen.header.realms=Realms 서버 생성하기
+createWorldScreen.header.realmsReset=Realm을 리셋하시겠습니까?
+createWorldScreen.header.editLocal=월드 편집하기
+createWorldScreen.action.local=월드 생성하기!
+createWorldScreen.action.realms=월드 생성하기!
+createWorldScreen.action.realmsReset=Realm 리셋하기!
+createWorldScreen.action.editLocal=무한맵 만들기!
+createWorldScreen.advanced=고급
+createWorldScreen.delete=삭제
+createWorldScreen.levelName=이름
+createWorldScreen.levelSeed=시드
+createWorldScreen.alwaysDay=항상 낮
+createWorldScreen.gameMode=게임 모드
+createWorldScreen.worldType=월드 유형
+createWorldScreen.more=...
+createWorldScreen.progress.local=새로운 월드 생성 중...
+createWorldScreen.progress.realms=Realm 리셋 중...
+
+generator.old=올드맵
+generator.infinite=무한맵
+generator.flat=평지맵
+
+externalServerScreen.header=외부 서버 추가
+externalServerScreen.addServer=서버 추가
+externalServerScreen.serverName=이름
+externalServerScreen.serverNameInput=서버 이름
+externalServerScreen.serverAddress=IP/주소
+externalServerScreen.serverAddressInput=IP 서버 또는 주소
+externalServerScreen.serverPort=포트
+externalServerScreen.serverPortInput=서버 포트
+externalServerScreen.label=IP/주소로 서버 추가하기.
+
+progressScreen.generating=월드 만드는 중
+progressScreen.cantConnect=서버에 연결할 수 없습니다. 다시 시도하십시오.
+progressScreen.message.locating=서버 위치 확인 중
+progressScreen.message.building=지형 구축 중
+progressScreen.message.waitingForRealms=Minecraft 앱 Realms 대기 중
+progressScreen.message.done=완료!
+
+disconnectionScreen.disconnected=서버와의 연결이 끊겼습니다
+disconnectionScreen.noReason=연결이 끊겼습니다
+disconnectionScreen.outdatedClient=연결할 수 없습니다: 오래된 클라이언트!
+disconnectionScreen.outdatedServer=연결할 수 없습니다: 오래된 서버!
+disconnectionScreen.cantConnect=월드에 연결할 수 없습니다.
+disconnectionScreen.serverFull=서버가 모두 찼습니다!
+disconnectionScreen.noWIFI=외부 서버에서 플레이하려면 Wifi 연결이 필요합니다
+disconnectionScreen.invalidSkin=유효하지 않은 스킨!
+
+worldError.corrupted=에 오류가 발생하여 시작할 수 없습니다.
+worldError.notFound=을(를) 찾을 수 없습니다.
+worldError.IO=을(를) 열 수 없습니다.
+worldError.notSupported=은(는) 지원하지 않는 포맷입니다.
+worldError.invalidArguments=은(는) 유효하지 않은 인수로 생성되었습니다.
+worldError.unknown=에 알 수 없는 문제가 발생했습니다.
+
+furnaceScreen.header=화로
+furnaceScreen.input=인풋
+furnaceScreen.fuel=연료
+furnaceScreen.result=결과
+
+chestScreen.header.large=큰 상자
+chestScreen.header.small=상자
+chestScreen.header.player=인벤토리
+
+pauseScreen.back=게임으로 돌아가기
+pauseScreen.quit=메인 화면으로 나가기
+pauseScreen.options=옵션
+pauseScreen.header=게임 메뉴
+
+chatScreen.hide=숨기기
+
+crafting.cannotCreate=모든 재료를 가지고 있지 않습니다
+crafting.noRecipesInventory=만들려면 블록을 모아야 합니다!
+crafting.noRecipesWorkbench=만들려면 블록을 모아야 합니다!
+crafting.noRecipesStonecutter=만들려면 돌 재료를 모아야 합니다!
+
+deathScreen.quit=메인 메뉴
+deathScreen.message=사망!
+
+options.category.game=게임
+options.category.input=컨트롤
+options.category.graphics=그래픽
+options.category.audio=사운드
+
+options.group.audio=사운드
+options.group.game=게임
+options.group.realms=Realms 알파 서버로 이동?
+options.group.input=컨트롤
+options.group.feedback=피드백
+options.group.graphics=그래픽
+options.group.graphics.experimental=실험
+
+options.languageWarning=번역은 100% 완벽하지 않을 수도 있습니다
+options.sound=사운드 볼륨
+options.hidegui=GUI 숨기기
+options.graphics=화려한 그래픽
+options.guiScale=방향키 사이즈
+options.thirdperson=삼인칭 시점
+options.servervisible=로컬 서버 멀티플레이어
+options.lefthanded=왼손모드
+options.usetouchscreen=터치 컨트롤 플레이
+options.usetouchpad=스플릿 컨트롤
+options.destroyvibration=블록 파괴하기(진동 설정)
+options.fancyskies=아름다운 하늘
+options.animatetextures=움직이는 물
+options.dpadscale=방향키 사이즈
+options.name=이름
+options.worldsizelimit=월드 사이즈 제한
+
+gui.login=로그인
+gui.logout=로그아웃
+
+action.hint.exit.minecart=점프를 탭해 마인카트에서 나오기
+action.hint.exit.boat=속도를 낮춰 보트에서 나오기
+
+action.interact.milk=우유
+action.interact.moostew=우유 스튜
+action.interact.mooshear=가위
+action.interact.shear=가위
+action.interact.feed=먹이
+action.interact.wolfcollar=염색
+action.interact.stand=서기
+action.interact.sit=앉기
+action.interact.tame=길들이기
+action.interact.ride.minecart=타기
+action.interact.ride.boat=승선
+action.interact.exit.boat=보트 하선
+action.interact.creeper=점화
+action.interact.fishing=물고기
+
+tile.stonecutter.name=석재 절단기
+tile.netherreactor.name=지옥의 반응기 핵
+tile.netherreactor.wrongPattern=올바른 패턴이 아닙니다!
+tile.netherreactor.active=활성화!
+tile.netherreactor.playersTooFar=모든 플레이어가 반응기 근처에 있어야 합니다.
+tile.netherreactor.builtTooHigh=지옥의 반응기는 더 낮은 곳에 설치해야 합니다.
+tile.netherreactor.builtTooLow=지옥의 반응기는 더 높은 곳에 설치해야 합니다.
+tile.beetroot.name=비트
+
+item.beetrootSoup.name=비트 수프
+item.beetroot.name=비트
+item.seeds_beetroot.name=비트 씨앗
+item.monsterPlacer.entity.Creeper.name=스폰 크리퍼
+item.monsterPlacer.entity.Skeleton.name=스폰 스켈레톤
+item.monsterPlacer.entity.Spider.name=스폰 거미
+item.monsterPlacer.entity.Giant.name=스폰 거인
+item.monsterPlacer.entity.Zombie.name=스폰 좀비
+item.monsterPlacer.entity.Slime.name=스폰 슬라임
+item.monsterPlacer.entity.Ghast.name=스폰 가스트
+item.monsterPlacer.entity.PigZombie.name=스폰 좀비 피그맨
+item.monsterPlacer.entity.EnderMan.name=스폰 엔더맨
+item.monsterPlacer.entity.Silverfish.name=스폰 좀벌레
+item.monsterPlacer.entity.CaveSpider.name=스폰 동굴 거미
+item.monsterPlacer.entity.Blaze.name=스폰 블레이즈
+item.monsterPlacer.entity.LavaSlime.name=스폰 마그마 큐브
+item.monsterPlacer.entity.MushroomCow.name=스폰 버섯소
+item.monsterPlacer.entity.Villager.name=스폰 마을 주민
+item.monsterPlacer.entity.VillagerGolem.name=스폰 아이언 골렘
+item.monsterPlacer.entity.SnowMan.name=스폰 스노우 골렘
+item.monsterPlacer.entity.EnderDragon.name=스폰 엔더 드래곤
+item.monsterPlacer.entity.Pig.name=스폰 돼지
+item.monsterPlacer.entity.Sheep.name=스폰 양
+item.monsterPlacer.entity.Cow.name=스폰 소
+item.monsterPlacer.entity.Chicken.name=스폰 닭
+item.monsterPlacer.entity.Squid.name=스폰 오징어
+item.monsterPlacer.entity.Wolf.name=스폰 늑대
+item.monsterPlacer.entity.Ozelot.name=스폰 오셀롯
+item.monsterPlacer.entity.Cat.name=스폰 고양이
+item.monsterPlacer.entity.Squid.name=스폰 오징어
+item.monsterPlacer.entity.Bat.name=스폰 방망이
+
+skins.browse=둘러보기
+skins.custom=사용자 지정
+skins.information.selectSkin=스킨에 맞는 모델을 선택하세요
+skins.information.invalidCustomSkin=선택한 이미지는 Minecraft 스킨이 아닙니다
+
+skins.skinpackHeader.standard=일반
+skins.skinpackHeader.packs=스킨 팩
+
+skin.name.alex=알렉스
+skin.name.steve=스티브

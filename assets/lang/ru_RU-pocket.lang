@@ -1,0 +1,201 @@
+gui.ok=OK
+
+menu.play=Играть
+menu.playOnRealms=Играть в Realms
+
+playscreen.header.local=Играть
+playscreen.header.realms=Realms
+playscreen.new=Новинка
+playscreen.lastPlayed.today=Сегодня
+playscreen.lastPlayed.yesterday=Вчера
+playscreen.lastPlayed.daysAgo=%1 дн. назад
+playscreen.lastPlayed.weeksAgo=%1 нед. назад
+playscreen.lastPlayed.longAgo=Уже давно
+playscreen.remoteWorld=Удаленный мир в:
+
+createWorldScreen.gameMode.survival.desc=Ресурсы ограничены, вам понадобятся инструменты. Вы можете пострадать. Берегитесь монстров.
+createWorldScreen.gameMode.creative.desc=Легко разрушайте и размещайте блоки. Без ущерба, полетов и других клевых примочек.
+createWorldScreen.gameMode.survival=Выживание
+createWorldScreen.gameMode.creative=Творческий
+createWorldScreen.header.local=Создать мир
+createWorldScreen.header.realms=Создать сервер Realms
+createWorldScreen.header.realmsReset=Сбросить ваш Realm?
+createWorldScreen.header.editLocal=Изменить ваш мир
+createWorldScreen.action.local=Создайте мир!
+createWorldScreen.action.realms=Создайте мир!
+createWorldScreen.action.realmsReset=Сбросьте Realm!
+createWorldScreen.action.editLocal=Сделайте бесконечным!
+createWorldScreen.advanced=Дополнительный
+createWorldScreen.delete=Удалить
+createWorldScreen.levelName=Имя
+createWorldScreen.levelSeed=Семя
+createWorldScreen.alwaysDay=Всегда день
+createWorldScreen.gameMode=Режим игры
+createWorldScreen.worldType=Вид мира
+createWorldScreen.more=...
+createWorldScreen.progress.local=Создается новый мир...
+createWorldScreen.progress.realms=Выполняется сброс вашего Realm...
+
+generator.old=Старый
+generator.infinite=Бесконечный
+generator.flat=Плоский
+
+externalServerScreen.header=Добавить внешний сервер
+externalServerScreen.addServer=Добавить сервер
+externalServerScreen.serverName=Имя
+externalServerScreen.serverNameInput=Названия сервера
+externalServerScreen.serverAddress=IP-адрес
+externalServerScreen.serverAddressInput=IP-адрес сервера
+externalServerScreen.serverPort=Порт
+externalServerScreen.serverPortInput=Порт сервера
+externalServerScreen.label=Добавить сервер по IP-адресу
+
+progressScreen.generating=Создание мира...
+progressScreen.cantConnect=Не удалось подключиться к серверу. Попробуйте еще раз.
+progressScreen.message.locating=Поиск сервера
+progressScreen.message.building=Генерация ландшафта
+progressScreen.message.waitingForRealms=Ожидание приложения Minecraft Realms
+progressScreen.message.done=Готово!
+
+disconnectionScreen.disconnected=Утеряно соединение с сервером
+disconnectionScreen.noReason=Вы отключены
+disconnectionScreen.outdatedClient=Не удалось подключиться: устаревший клиент!
+disconnectionScreen.outdatedServer=Не удалось подключиться: устаревший сервер!
+disconnectionScreen.cantConnect=Не удалось подключиться к миру.
+disconnectionScreen.serverFull=Сервер заполнен!
+disconnectionScreen.noWIFI=Для игры на внешних серверах необходимо подключение к Интернету через сеть Wi-Fi.
+disconnectionScreen.invalidSkin=Неверный скин!
+
+worldError.corrupted=испорчен и не может быть запущен.
+worldError.notFound=не может быть найден.
+worldError.IO=не может быть открыт.
+worldError.notSupported=использует неподдерживаемый формат.
+worldError.invalidArguments=был создан с недействительными данными.
+worldError.unknown=не работает в связи с неизвестной проблемой.
+
+furnaceScreen.header=Печь
+furnaceScreen.input=Ввод
+furnaceScreen.fuel=Топливо
+furnaceScreen.result=Результат
+
+chestScreen.header.large=Большой сундук
+chestScreen.header.small=Сундук
+chestScreen.header.player=Инвентарь
+
+pauseScreen.back=Вернуться к игре
+pauseScreen.quit=Выйти и вернуться на главную страницу
+pauseScreen.options=Настройки
+pauseScreen.header=Меню игры
+
+chatScreen.hide=Скрыть
+
+crafting.cannotCreate=У вас не хватает ингредиентов.
+crafting.noRecipesInventory=Вам нужно собрать блоки, что создавать!
+crafting.noRecipesWorkbench=Вам нужно собрать блоки, что создавать!
+crafting.noRecipesStonecutter=Вам нужны материалы из камня, чтобы создавать!
+
+deathScreen.quit=Главное меню
+deathScreen.message=Вы умираете!
+
+options.category.game=Игра
+options.category.input=Элементы управления
+options.category.graphics=Графика
+options.category.audio=Звук
+
+options.group.audio=Звук
+options.group.game=Игра
+options.group.realms=Пригласили поиграть в Realms Alpha?
+options.group.input=Элементы управления
+options.group.feedback=Отзывы
+options.group.graphics=Графика
+options.group.graphics.experimental=Экспериментальный
+
+options.languageWarning=Переводы на другие языки не всегда аккуратны на 100%.
+options.sound=Громкость
+options.hidegui=Скрыть ГПИ
+options.graphics=Причудливая графика
+options.guiScale=Размер крестовины
+options.thirdperson=Обзор от третьего лица
+options.servervisible=Многопользовательская игра на локальном сервере
+options.lefthanded=Левша
+options.usetouchscreen=Играть с сенсором
+options.usetouchpad=Разделить элементы управления
+options.destroyvibration=Разрушить блок (вибрация)
+options.fancyskies=Красивое небо
+options.animatetextures=Живая вода
+options.dpadscale=Размер крестовины
+options.name=Имя
+options.worldsizelimit=Ограничить размер мира
+
+gui.login=Вход
+gui.logout=Выход
+
+action.hint.exit.minecart=Прикоснитесь к "Прыжку" для выхода из вагонетки
+action.hint.exit.boat=Замедлитесь для выхода из лодки
+
+action.interact.milk=Молоко
+action.interact.moostew=Жаркое на молоке
+action.interact.mooshear=Резать
+action.interact.shear=Резать
+action.interact.feed=Кормить
+action.interact.wolfcollar=Красить
+action.interact.stand=Стоять
+action.interact.sit=Сидеть
+action.interact.tame=Укротить
+action.interact.ride.minecart=Ехать верхом
+action.interact.ride.boat=Погрузиться
+action.interact.exit.boat=Оставить лодку
+action.interact.creeper=Зажечь
+action.interact.fishing=Ловить рыбу
+
+tile.stonecutter.name=Резчик по камню
+tile.netherreactor.name=Ядро адского реактора
+tile.netherreactor.wrongPattern=Неправильный образ!
+tile.netherreactor.active=Действует!
+tile.netherreactor.playersTooFar=Все игроки должны находится поблизости от реактора.
+tile.netherreactor.builtTooHigh=Адский реактор надо построить ниже.
+tile.netherreactor.builtTooLow=Адский реактор надо построить выше.
+tile.beetroot.name=Свекла
+
+item.beetrootSoup.name=Борщ
+item.beetroot.name=Свекла
+item.seeds_beetroot.name=Семена свеклы
+item.monsterPlacer.entity.Creeper.name=Создать крипера
+item.monsterPlacer.entity.Skeleton.name=Создать скелет
+item.monsterPlacer.entity.Spider.name=Создать паука
+item.monsterPlacer.entity.Giant.name=Создать гиганта
+item.monsterPlacer.entity.Zombie.name=Создать зомби
+item.monsterPlacer.entity.Slime.name=Создать слизь
+item.monsterPlacer.entity.Ghast.name=Создать Гаста
+item.monsterPlacer.entity.PigZombie.name=Создать свинозомби
+item.monsterPlacer.entity.EnderMan.name=Создать Эндермена
+item.monsterPlacer.entity.Silverfish.name=Создать чешуйницу
+item.monsterPlacer.entity.CaveSpider.name=Создать пещерного паука
+item.monsterPlacer.entity.Blaze.name=Создать ифрит
+item.monsterPlacer.entity.LavaSlime.name=Создать адского слизня
+item.monsterPlacer.entity.MushroomCow.name=Создать муухомора
+item.monsterPlacer.entity.Villager.name=Создать жителя
+item.monsterPlacer.entity.VillagerGolem.name=Создать железного голема
+item.monsterPlacer.entity.SnowMan.name=Создать снеговика
+item.monsterPlacer.entity.EnderDragon.name=Создать дракона Эндера
+item.monsterPlacer.entity.Pig.name=Создать свинью
+item.monsterPlacer.entity.Sheep.name=Создать овцу
+item.monsterPlacer.entity.Cow.name=Создать корову
+item.monsterPlacer.entity.Chicken.name=Создать курицу
+item.monsterPlacer.entity.Squid.name=Создать спрута
+item.monsterPlacer.entity.Wolf.name=Создать волка
+item.monsterPlacer.entity.Ozelot.name=Создать оцелота
+item.monsterPlacer.entity.Cat.name=Создать кота
+item.monsterPlacer.entity.Squid.name=Создать спрута
+item.monsterPlacer.entity.Bat.name=Создать летучую мышь
+
+skins.browse=Обзор
+skins.custom=Пользовательский
+skins.information.selectSkin=Выберите модель, к которой подходит ваш скин
+skins.information.invalidCustomSkin=Выбранное изображение не является скином Minecraft
+
+skins.skinpackHeader.standard=Стандартное
+skins.skinpackHeader.packs=Пакеты скинов
+
+skin.name.alex=Алекс
+skin.name.steve=Стив
